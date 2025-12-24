@@ -34,5 +34,5 @@ Corporate catering website designed for real customers and operations.
 ---
 
 ## 📫 Contact
-- Email: yourmail@example.com
-- LinkedIn: (to be added)
+- Email: berkantuslupsy@gmail.com
+- [LinkedIn:](https://www.linkedin.com/in/berkant-uslu-4a0275300/)
